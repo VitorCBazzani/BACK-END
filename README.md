@@ -4,7 +4,7 @@
 
 
 ### Sobre mim
-Aluno Unicesumar, projeto desenvolvido para o MAPA!(https://www.treinaweb.com.br/).
+Aluno Unicesumar, projeto desenvolvido para o MAPA!
 
 - [Curso] Sistema para Internet
 - [RA] 20040180-5
